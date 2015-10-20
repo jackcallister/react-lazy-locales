@@ -1,5 +1,5 @@
-import LocalesProvider from './LocalesProvider'
-import locales from './locales'
+import LocalesProvider from './src/LocalesProvider'
+import locales from './src/locales'
 
 export default {
   LocalesProvider,
